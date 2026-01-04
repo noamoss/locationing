@@ -81,7 +81,7 @@ npm start
 ## Project Structure
 
 ```
-locationating/
+locationing/
 ├── app/                    # Next.js App Router pages and layouts
 │   ├── layout.tsx         # Root layout component
 │   ├── page.tsx           # Home page
