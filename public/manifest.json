@@ -1,0 +1,11 @@
+{
+  "name": "Park & Find",
+  "short_name": "Park & Find",
+  "description": "A minimal, privacy-first app to help you remember where you parked your car",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary"
+}
+
